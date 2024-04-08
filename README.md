@@ -42,7 +42,6 @@ The reason for a derivative version is to go beyond plug-ins and add free custom
 ## 👀 How can I use it?
 
 <a href="https://github.com/YU000jp/fork-logseq/releases/latest/"><img src="https://img.shields.io/badge/Download_Logseq_Classic-100000?style=for-the-badge&logo=flatpak&logoColor=white&labelColor=002b36&color=85c8c8" alt="Download Logseq-Classic"/></a> (Windows / Linux)
-1. [Download] the latest version of Logseq-Classic
 
 ## 🚧 History
 
