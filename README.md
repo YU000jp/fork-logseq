@@ -9,7 +9,7 @@
     "Logseq-Classic" is a customized derivative version of Logseq.<br/><br/>
     This app will include features that Logseq has not approved for implementation.<br/>
     <br/>
-    🚧 Active development is underway. <a href="https://github.com/YU000jp/fork-logseq/blob/logseq-classic-develop/CHANGELOG.md">CHANGELOG</a><br/>
+    🚧 Active development is underway. <a href="https://github.com/YU000jp/fork-logseq/blob/develop/CHANGELOG.md">CHANGELOG</a><br/>
 </h4>
 
 <p align="center">
