@@ -2,6 +2,35 @@
 
 ---
 
+## v1.2.0 (2024-05-05)
+
+<p align="center">
+    <img src="https://github.com/YU000jp/fork-logseq/assets/111847207/ad79abe8-f35d-47cc-8ef7-89db3d3b5a97" height="400"/>
+</p>
+
+## Enhance
+1. Improved sidebar.
+   - This allows content to be displayed side by side.
+   - This idea is a suggestion for making better use of the left menu and sidebar.
+1. Unify the background color of tooltips, etc.
+1. Changed the way accent colors are used.
+
+---
+
+## v1.1.0 (2024-05-04)
+
+## Enhance
+1. Prevent journal from being displayed continuously
+2. Improved flow from create new button
+3. Minor improvements to search function
+4. Made it easier to use the search function in the sidebar
+5. "SCHEDULED AND DEADLINE", "Dafault queries" and "LINKED REFERENCES (Un)" integrated into sidebar
+6. Prevent journal button from disappearing even if home button is enabled
+7. Place Page-tags and Hierarchy in menu bar
+8. Prevent history from including page names included in favorites
+
+---
+
 ## v1.0.1 (2024-04-21)
 
 ## Enhance
