@@ -9,7 +9,6 @@
     "Logseq-Classic" is a customized derivative version of Logseq.<br/><br/>
     This app will include features that Logseq has not approved for implementation.<br/>
     <br/>
-    🚧 Active development is underway. <a href="https://github.com/YU000jp/fork-logseq/blob/develop/CHANGELOG.md">CHANGELOG</a><br/>
 </h4>
 
 <p align="center">
@@ -47,6 +46,7 @@
 
 ## 🚧 History
 
+- 🚧 *Active development is underway.* <a href="https://github.com/YU000jp/fork-logseq/blob/develop/CHANGELOG.md">CHANGELOG</a>
 1. 2024-05-05 Release v1.2.0 (Ithe latest version from upstream.): Improved sidebar.
 1. 2024-04-06 Building a release environment other than Mac and mobile
 1. 2024-04-04 Planning started
