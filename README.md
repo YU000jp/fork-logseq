@@ -1,6 +1,6 @@
 <!-- logo -->
 <p align="center">
-    <a href="https://logseq.com" alt="Logseq Logo"><img src="https://user-images.githubusercontent.com/25513724/220608753-f33db466-af72-4611-b603-411440c15ed0.png?sanatize=true" height="173"/></a>
+    <img src="https://github.com/YU000jp/fork-logseq/assets/111847207/ad79abe8-f35d-47cc-8ef7-89db3d3b5a97" height="400"/>
 </p>
 
 <h1 align="center">Logseq-Classic (app)</h1>
@@ -30,14 +30,13 @@
 ## 🤔 Why was a derivative version created?
 
 1. My belief is to create an environment that is easier to use and has a higher degree of freedom on local. The reason for a derivative version is to go beyond plugins and add free customization. I am satisfied with the existing system. I want to add ideas to the fundamental aspects of the system, both functionally and design-wise.
-1. Logseq has plans to migrate to a database version that includes extensive changes. When Logseq migrates to the version, many plugins and themes will lose compatibility. Migration isn't always the right thing to do. Some people may want to continue using legacy version.
 
 ## 🙏 Note!
 
 1. My resources are limited. This derivative version only works on local **desktop**.
 1. Compatible with **Windows** or **Linux only**. Not available on *Mac*.
     > If it becomes popular and we get enough donations, we will make it compatible with *Mac*. This is because it costs $99 per year to perform "code signing" and "notarization" in order to be established as a *Mac* app.
-1. It is based on **Logseq v0.10.8** and does not include any later updates.
+1. Merge after a new version of Logseq is released. Incompatible features may be omitted in the future.
 1. The graphs used in Logseq and derived versions are common. You can switch at any time.
 1. If you have any new suggestions, please open an issue or discussion. 
 
@@ -48,20 +47,6 @@
 
 ## 🚧 History
 
+1. 2024-05-05 Release v1.2.0 (Ithe latest version from upstream.): Improved sidebar.
 1. 2024-04-06 Building a release environment other than Mac and mobile
 1. 2024-04-04 Planning started
-
-## 📚 Links (Logseq)
-* Homepage: [Logseq.com](https://logseq.com)
-* Documentation: [docs.logseq.com](https://docs.logseq.com) ([FAQ](https://docs.logseq.com/#/page/faq))
-* Forum: [Discuss](https://discuss.logseq.com), ([FAQ category](https://discuss.logseq.com/c/faq/6))
-* Extensions: [Awesome Logseq](https://github.com/logseq/awesome-logseq)
-* Discord: [discord.gg/logseq](https://discord.gg/logseq)
-    > [中文 Discord](https://discord.gg/xYqcrXWymg)
-
-## 🌟 Contributors (Logseq)
-
-<p align="center">
-    <a href="https://github.com/YU000jp/fork-logseq/graphs/contributors">
-        <img src="https://contrib.rocks/image?repo=YU000jp/fork-logseq&max=300&columns=14" width="600"/></a>
-</p>
